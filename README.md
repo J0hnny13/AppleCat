@@ -1,0 +1,2 @@
+# AppleCat
+A discord bot
